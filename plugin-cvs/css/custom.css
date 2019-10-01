@@ -1,0 +1,130 @@
+#ext-698dc19d489c4e4db73e28a713eab07b #txt-input {
+	font-size: 9px;
+}
+
+#ext-698dc19d489c4e4db73e28a713eab07b .container {
+    max-width: 600px;
+}
+
+#ext-698dc19d489c4e4db73e28a713eab07b body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+
+#ext-698dc19d489c4e4db73e28a713eab07b .container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#ext-698dc19d489c4e4db73e28a713eab07b .form-group {
+    margin-bottom: 1rem;
+}
+
+#ext-698dc19d489c4e4db73e28a713eab07b label {
+    display: inline-block;
+    margin-bottom: .5rem;
+}
+
+#ext-698dc19d489c4e4db73e28a713eab07b *, ::after, ::before {
+    box-sizing: border-box;
+}
+
+#ext-698dc19d489c4e4db73e28a713eab07b label {
+    cursor: default;
+}
+
+#ext-698dc19d489c4e4db73e28a713eab07b textarea.form-control {
+    height: auto;
+}
+
+#ext-698dc19d489c4e4db73e28a713eab07b .form-control {
+    transition: none;
+}
+
+#ext-698dc19d489c4e4db73e28a713eab07b .form-control {
+    display: block;
+    width: 100%;
+    height: calc(2.25rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+#ext-698dc19d489c4e4db73e28a713eab07b button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+
+
+#ext-698dc19d489c4e4db73e28a713eab07b [type=reset], [type=submit], button, html [type=button] {
+    -webkit-appearance: button;
+}
+
+#ext-698dc19d489c4e4db73e28a713eab07b button, select {
+    text-transform: none;
+}
+#ext-698dc19d489c4e4db73e28a713eab07b button, input {
+    overflow: visible;
+}
+#ext-698dc19d489c4e4db73e28a713eab07b button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+#ext-698dc19d489c4e4db73e28a713eab07b .btn {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+#ext-698dc19d489c4e4db73e28a713eab07b .btn {
+    transition: none;
+}
+
+#ext-698dc19d489c4e4db73e28a713eab07b .btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+
+#ext-698dc19d489c4e4db73e28a713eab07b .btn-secondary {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+#ext-698dc19d489c4e4db73e28a713eab07b .btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}

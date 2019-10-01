@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "SGR",
+    "description": "SGR",
+    "author": "Pedro Ramos",
+    "browser_action": {
+		"default_title": "SGR"	
+    },
+	"background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+	"permissions": [
+		"tabs",
+		"activeTab",
+		"http://*/",
+		"storage",
+		"notifications",
+        "https://*/"
+	]
+}
